@@ -1,2 +1,2 @@
 # CareAll
-Please Growthrough the IPython notebook
+Please go through the given Ipython notebook
